@@ -1,0 +1,22 @@
+:root {
+  --primary-color: #0A1128;
+  --white-color: #FFFFFF;
+  --light-gray-color: #EEEEEE;
+  --secondary-color: crimson;
+  --gap: 4rem;
+  --inicio-color: #000000;
+}
+
+nav { min-height: 90px; margin-bottom: 0 !important;}
+
+.nav-item {
+  margin: 0 15px;
+}
+
+.build {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+

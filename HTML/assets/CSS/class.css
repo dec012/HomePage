@@ -1,0 +1,113 @@
+/*Personalização*/
+
+.main-bg {
+  background-image: url('../img/Confetti-Doodles.svg');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.inicio-bg {
+  background-image: url('../img/canva/bgdeg.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.tip-bg {
+  background-image: url('../img/canva/bgdeg2.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.ponto-bg {
+  background-image: url('../img/canva/bgdeg3.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.Galeria-bg {
+  background-image: url('../img/canva/bgdeg4.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.tabela-bg {
+  background-image: url('../img/canva/bgdeg5.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.duvida-bg {
+  background-image: url('../img/canva/bgdeg6.png');
+  background-size: cover;
+  background-position: center center;
+  color: var(--white-color);
+}
+
+.white-bg {
+  background: var(--white-color);
+  color: var(--primary-color);
+}
+
+/*Inicio*/
+
+.int-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 10rem var(--gap);
+}
+.main-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 10rem var(--gap);
+}
+
+/* Feedback */
+
+.duvida-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 10rem var(--gap);
+}
+
+/* tipo */
+
+.main-secondcontent {
+  max-width: 120rem;
+  margin: 0rem auto;
+  padding: 10rem var(--gap);
+}
+
+/*table*/
+
+.table-content {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 10rem var(--gap);
+}
+
+/* */
+
+.menu-nav {
+  max-width: 120rem;
+  margin: 0 auto;
+  padding: 0rem var(--gap);
+}
+
+.section {
+  min-height: 100vh;
+}
+
+.menu-spacing {
+  height: 65px;
+}
+
+body .full-width {
+  width: 100%;
+  flex: 1 1 100%;
+}
